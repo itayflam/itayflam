@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @itayflam
-- 👀 My Intrests: Computer Science, Philosophy, Biology and 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Welcome to my Repo!
+Will post here things that I think are cool :)
 
 <!---
 itayflam/itayflam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
