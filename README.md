@@ -1,5 +1,4 @@
 Welcome to my Repo!
-Will post here things that I think are cool :)
 
 <!---
 itayflam/itayflam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
